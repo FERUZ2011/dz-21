@@ -1,0 +1,26 @@
+.cardi{
+    display: flex;
+    flex-direction: column;
+    gap: 1vw;
+
+    padding: 10px;
+    border-radius: 10px;
+    align-items: center;
+}
+.cardi > img{
+    width: 100%;
+    border-radius: 10px;
+}
+h1{
+    font-size: 32px;
+    color: black;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+    color: black;
+}
+p{
+    font-size: 10px;
+    text-align: center;
+}
